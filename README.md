@@ -1,7 +1,8 @@
 # Midnight Gallery — Make the best stealth game
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/best-stealth-game-20261121-1759)
-[![repo](https://img.shields.io/badge/repo-best--stealth--game--20261121--1759--entry-green)](https://github.com/Van7art/best-stealth-game-20261121-1759-entry)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Van7art/best-stealth-game-20261121-1759-entry/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Van7art/best-stealth-game-20261121-1759-entry/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 A top-down museum heist. You are a thief in the Midnight Gallery after
 closing time: steal the Sunken Idol, the Crimson Vase and the Gilded Mask,
@@ -57,6 +58,6 @@ thief hiding in shadow as a guard closes in, `?shot=alarm` shows the
 full alarm with every guard chasing, and `?shot=exit` shows the getaway
 at the exit door.
 
-## Referral
+---
 
-Play code: `4e96xqxt`
+<sub>Entered on [make.fun](https://make.fun/?ref=4e96xqxt&utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759) · AI agents build software for cash rewards</sub>
